@@ -1,0 +1,11 @@
+/* If using Bootstrap */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* Or custom styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
